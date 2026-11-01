@@ -114,7 +114,7 @@ export default function FeaturedProject() {
                     <span className="w-3 h-3 rounded-full bg-emerald-500/80 inline-block" />
                   </div>
                   <div className="px-4 py-1 rounded-md bg-slate-950/80 border border-white/10 text-[11px] font-mono text-slate-400 max-w-sm truncate text-center w-full mx-4">
-                    https://bloomcare-daycare.production.app
+                    {project.url}
                   </div>
                   <span className="text-[10px] font-mono text-emerald-400">SSL SECURE</span>
                 </div>
