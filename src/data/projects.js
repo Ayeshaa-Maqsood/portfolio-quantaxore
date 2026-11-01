@@ -27,6 +27,34 @@ export const projectsData = [
       { title: "Program & Facility Grid", desc: "Interactive filtering by infant, toddler, preschool, and after-school programs." },
       { title: "WhatsApp Direct Triage", desc: "Instant click-to-chat connecting parents to admissions staff without email lag." }
     ]
+  },
+  {
+    id: "angelsfairies-daycare",
+    title: "Angels & Fairies Daycare – Full‑Stack Web Platform",
+    client: "Angels & Fairies Daycare",
+    tagline: "High‑conversion site with WhatsApp inquiry integration",
+    status: "Launched & Live",
+    category: "Full-Stack Web & Automation",
+    year: "2026",
+    deliverables: [
+      "Responsive UI with program grid",
+      "WhatsApp direct inquiry button",
+      "Optimized media loading",
+      "SEO & performance tuning"
+    ],
+    techStack: ["React 19", "Vite", "Modular CSS", "WhatsApp API"],
+    metrics: [
+      { label: "Performance", value: "98/100" },
+      { label: "Page Speed", value: "<0.8s" },
+      { label: "Inquiry Lift", value: "+340%" },
+      { label: "Device Coverage", value: "100%" }
+    ],
+    features: [
+      { title: "Parent Enrollment Funnel", desc: "Step‑by‑step inquiry forms reducing friction." },
+      { title: "Program & Facility Grid", desc: "Interactive filtering by age groups and programs." },
+      { title: "WhatsApp Direct Triage", desc: "Instant click‑to‑chat connecting parents to staff." }
+    ],
+    url: "https://www.angelsfairiesdaycare.com/"
   }
 ];
 
