@@ -50,4 +50,3 @@ export const incubationProjects = [
     phase: "Sprint 2 Incubation"
   }
 ];
-
